@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "TheCryptEditor Editor Win64 Development (TheCrypt)",
+            "compilerPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\TheCrypt\\TheCrypt\\.vscode\\compileCommands_TheCrypt.json"
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\TheCrypt\\TheCrypt\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}

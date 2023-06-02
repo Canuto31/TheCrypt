@@ -1,0 +1,106 @@
+[
+	{
+		"file": "D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\TheCrypt\\TheCrypt\\Source\\TheCrypt\\TP_PickUpComponent.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\TheCrypt\\TheCrypt\\.vscode\\compileCommands_TheCrypt\\TheCrypt.255.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\TheCrypt\\TheCrypt\\Source\\TheCrypt\\TP_PickUpComponent.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\TheCrypt\\TheCrypt\\.vscode\\compileCommands_TheCrypt\\TheCrypt.255.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\TheCrypt\\TheCrypt\\Source\\TheCrypt\\TP_WeaponComponent.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\TheCrypt\\TheCrypt\\.vscode\\compileCommands_TheCrypt\\TheCrypt.255.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\TheCrypt\\TheCrypt\\Source\\TheCrypt\\TP_WeaponComponent.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\TheCrypt\\TheCrypt\\.vscode\\compileCommands_TheCrypt\\TheCrypt.255.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\TheCrypt\\TheCrypt\\Source\\TheCrypt\\TheCrypt.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\TheCrypt\\TheCrypt\\.vscode\\compileCommands_TheCrypt\\TheCrypt.255.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\TheCrypt\\TheCrypt\\Source\\TheCrypt\\TheCrypt.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\TheCrypt\\TheCrypt\\.vscode\\compileCommands_TheCrypt\\TheCrypt.255.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\TheCrypt\\TheCrypt\\Source\\TheCrypt\\TheCrypt.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\TheCrypt\\TheCrypt\\.vscode\\compileCommands_TheCrypt\\TheCrypt.255.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\TheCrypt\\TheCrypt\\Source\\TheCrypt\\TheCryptCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\TheCrypt\\TheCrypt\\.vscode\\compileCommands_TheCrypt\\TheCrypt.255.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\TheCrypt\\TheCrypt\\Source\\TheCrypt\\TheCryptCharacter.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\TheCrypt\\TheCrypt\\.vscode\\compileCommands_TheCrypt\\TheCrypt.255.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\TheCrypt\\TheCrypt\\Source\\TheCrypt\\TheCryptGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\TheCrypt\\TheCrypt\\.vscode\\compileCommands_TheCrypt\\TheCrypt.255.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\TheCrypt\\TheCrypt\\Source\\TheCrypt\\TheCryptGameMode.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\TheCrypt\\TheCrypt\\.vscode\\compileCommands_TheCrypt\\TheCrypt.255.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\TheCrypt\\TheCrypt\\Source\\TheCrypt\\TheCryptProjectile.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\TheCrypt\\TheCrypt\\.vscode\\compileCommands_TheCrypt\\TheCrypt.255.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\TheCrypt\\TheCrypt\\Source\\TheCrypt\\TheCryptProjectile.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\TheCrypt\\TheCrypt\\.vscode\\compileCommands_TheCrypt\\TheCrypt.255.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.1\\Engine\\Source"
+	}
+]
