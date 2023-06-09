@@ -1,0 +1,12 @@
+.vs/ filter=lfs diff=lfs merge=lfs -text
+*.slo filter=lfs diff=lfs merge=lfs -text
+*.lo filter=lfs diff=lfs merge=lfs -text
+*.o filter=lfs diff=lfs merge=lfs -text
+*.obj filter=lfs diff=lfs merge=lfs -text
+*.gch filter=lfs diff=lfs merge=lfs -text
+*.pch filter=lfs diff=lfs merge=lfs -text
+Saved/Logs filter=lfs diff=lfs merge=lfs -text
+Saved/SourceControl filter=lfs diff=lfs merge=lfs -text
+Saved/AutoScreenshot.png filter=lfs diff=lfs merge=lfs -text
+Saved/Autosaves filter=lfs diff=lfs merge=lfs -text
+Saved/Config filter=lfs diff=lfs merge=lfs -text
